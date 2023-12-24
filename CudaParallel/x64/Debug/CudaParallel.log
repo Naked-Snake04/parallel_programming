@@ -1,0 +1,3 @@
+﻿     Creating library C:\Users\Savel\source\repos\Parallel Programming\CudaParallel\x64\Debug\CudaParallel.lib and object C:\Users\Savel\source\repos\Parallel Programming\CudaParallel\x64\Debug\CudaParallel.exp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  CudaParallel.vcxproj -> C:\Users\Savel\source\repos\Parallel Programming\CudaParallel\x64\Debug\CudaParallel.exe

@@ -1,0 +1,5 @@
+﻿  source.cpp
+C:\Users\Savel\source\repos\Parallel Programming\OpenMP_lab\source.cpp(9,5): warning C4101: 'k': unreferenced local variable
+C:\Users\Savel\source\repos\Parallel Programming\OpenMP_lab\source.cpp(9,5): warning C4101: 'i': unreferenced local variable
+C:\Users\Savel\source\repos\Parallel Programming\OpenMP_lab\source.cpp(9,5): warning C4101: 'j': unreferenced local variable
+  OpenMP_lab.vcxproj -> C:\Users\Savel\source\repos\Parallel Programming\OpenMP_lab\x64\Debug\OpenMP_lab.exe

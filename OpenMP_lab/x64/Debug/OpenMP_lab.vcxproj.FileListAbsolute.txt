@@ -1,0 +1,2 @@
+C:\Users\Savel\source\repos\OpenMP_lab\x64\Debug\OpenMP_lab.exe
+C:\Users\Savel\source\repos\Parallel Programming\OpenMP_lab\x64\Debug\OpenMP_lab.exe
